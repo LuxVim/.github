@@ -37,10 +37,10 @@
 
 ```bash
 # Clone the LuxVim workspace
-git clone https://github.com/LuxVim/lux-workspace.git
+git clone https://github.com/LuxVim/LuxVim.git
 
 # Install LuxVim
-cd lux-workspace/LuxVim && ./install.sh
+cd LuxVim && ./install.sh
 
 # Launch LuxVim
 lux
