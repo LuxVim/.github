@@ -28,6 +28,31 @@ lux
 - **Instant Productivity**: Zero configuration required, works out of the box
 - **Plugin Development System**: Hot-reload development with local debug plugins
 
+## 👥 LuxVim Team
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/josstei">
+        <img src="https://github.com/josstei.png" alt="josstei" width="80" height="80">
+      </a>
+      <br><br>
+      <strong><a href="https://github.com/josstei">josstei</a></strong>
+      <br>
+      Creator & Core Developer
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/zejzejzej3">
+        <img src="https://github.com/zejzejzej3.png" alt="zejzejzej3" width="80" height="80">
+      </a>
+      <br><br>
+      <strong><a href="https://github.com/zejzejzej3">zejzejzej3</a></strong>
+      <br>
+      Web Development & Design
+    </td>
+  </tr>
+</table>
+
 ## ✨ Key Features
 
 ### LuxVim Distribution Features
@@ -80,10 +105,6 @@ This project is open source and available under the **MIT License**.
 - **[Neovim](https://neovim.io/)** - The extensible editor that makes this possible
 - **[folke](https://github.com/folke)** - Creator of lazy.nvim
 - **[Junegunn Choi](https://github.com/junegunn)** - Creator of fzf
-
-### LuxVim Team
-- **[josstei](https://github.com/josstei)** - Creator / Core development
-- **[zejzejzej3](https://github.com/zejzejzej3)** - Web development and Design
 
 ### Community
 - **Theme Authors**: 30+ theme maintainers who make LuxVim beautiful
