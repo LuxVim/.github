@@ -2,12 +2,12 @@
   <img src="https://github.com/user-attachments/assets/546ee0e5-30fd-4e37-b219-e390be8b1c6e" alt="LuxVim Logo" width="350" />
 </p>
 <p align="center">
-  A <strong>high-performance, self-contained Neovim distribution</strong> for developers who want speed, features, and beauty — with zero setup.
+  A <strong>high-performance, self-contained Neovim distribution and plugin suite </strong> for developers who want speed, features, and beauty — with zero setup.
 </p>
 
 <p align="center">
   <a href="https://github.com/LuxVim/LuxVim/stargazers">
-    <img src="https://img.shields.io/github/stars/LuxVim/LuxVim?style=flat-square&logo=github" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/LuxVim?style=flat-square&logo=github" alt="GitHub stars" />
   </a>
   <a href="https://github.com/LuxVim/LuxVim/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" />
